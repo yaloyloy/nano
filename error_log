@@ -1,0 +1,71 @@
+[02-May-2020 09:17:27 Asia/Phnom_Penh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/megateam/public_html/nano/admin/action/db.php on line 6
+[02-May-2020 09:17:27 Asia/Phnom_Penh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home2/megateam/public_html/nano/admin/action/db.php on line 7
+[02-May-2020 09:17:27 Asia/Phnom_Penh] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/megateam/public_html/nano/admin/action/db.php on line 44
+[02-May-2020 09:17:27 Asia/Phnom_Penh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/megateam/public_html/nano/admin/action/db.php on line 6
+[02-May-2020 09:17:27 Asia/Phnom_Penh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home2/megateam/public_html/nano/admin/action/db.php on line 7
+[02-May-2020 09:17:27 Asia/Phnom_Penh] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/megateam/public_html/nano/admin/action/db.php on line 56
+[02-May-2020 09:17:27 Asia/Phnom_Penh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/megateam/public_html/nano/admin/action/db.php on line 6
+[02-May-2020 09:17:27 Asia/Phnom_Penh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home2/megateam/public_html/nano/admin/action/db.php on line 7
+[02-May-2020 09:17:27 Asia/Phnom_Penh] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/megateam/public_html/nano/admin/action/db.php on line 56
+[02-May-2020 09:17:27 Asia/Phnom_Penh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/megateam/public_html/nano/admin/action/db.php on line 6
+[02-May-2020 09:17:27 Asia/Phnom_Penh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home2/megateam/public_html/nano/admin/action/db.php on line 7
+[02-May-2020 09:17:27 Asia/Phnom_Penh] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/megateam/public_html/nano/admin/action/db.php on line 56
+[02-May-2020 09:17:27 Asia/Phnom_Penh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/megateam/public_html/nano/admin/action/db.php on line 6
+[02-May-2020 09:17:27 Asia/Phnom_Penh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home2/megateam/public_html/nano/admin/action/db.php on line 7
+[02-May-2020 09:17:27 Asia/Phnom_Penh] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/megateam/public_html/nano/admin/action/db.php on line 56
+[02-May-2020 09:17:27 Asia/Phnom_Penh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/megateam/public_html/nano/admin/action/db.php on line 6
+[02-May-2020 09:17:27 Asia/Phnom_Penh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home2/megateam/public_html/nano/admin/action/db.php on line 7
+[02-May-2020 09:17:27 Asia/Phnom_Penh] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/megateam/public_html/nano/admin/action/db.php on line 56
+[02-May-2020 09:17:27 Asia/Phnom_Penh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/megateam/public_html/nano/admin/action/db.php on line 6
+[02-May-2020 09:17:27 Asia/Phnom_Penh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home2/megateam/public_html/nano/admin/action/db.php on line 7
+[02-May-2020 09:17:27 Asia/Phnom_Penh] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/megateam/public_html/nano/admin/action/db.php on line 56
+[06-May-2020 02:58:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/megateam/public_html/nano/search.php on line 2
+[06-May-2020 02:58:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home2/megateam/public_html/nano/search.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/search.php on line 9
+[06-May-2020 02:58:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/megateam/public_html/nano/search.php on line 2
+[06-May-2020 02:58:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home2/megateam/public_html/nano/search.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/search.php on line 9
+[06-May-2020 02:58:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/megateam/public_html/nano/search.php on line 2
+[06-May-2020 02:58:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home2/megateam/public_html/nano/search.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/search.php on line 9
+[06-May-2020 02:58:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/megateam/public_html/nano/search.php on line 2
+[06-May-2020 02:58:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home2/megateam/public_html/nano/search.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/search.php on line 9
+[06-May-2020 02:58:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/megateam/public_html/nano/search.php on line 2
+[06-May-2020 02:58:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home2/megateam/public_html/nano/search.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/search.php on line 9
+[06-May-2020 02:58:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/megateam/public_html/nano/search.php on line 2
+[06-May-2020 02:58:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home2/megateam/public_html/nano/search.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/search.php on line 9
+[06-May-2020 03:57:46 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/megateam/public_html/nano/search.php on line 2
+[06-May-2020 03:57:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home2/megateam/public_html/nano/search.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/search.php on line 9
+[06-May-2020 04:04:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/megateam/public_html/nano/search.php on line 2
+[06-May-2020 04:04:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home2/megateam/public_html/nano/search.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/search.php on line 9
+[06-May-2020 08:43:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/megateam/public_html/nano/search.php on line 2
+[06-May-2020 08:43:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home2/megateam/public_html/nano/search.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/search.php on line 9
+[06-May-2020 08:49:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/megateam/public_html/nano/search.php on line 2
+[06-May-2020 08:49:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home2/megateam/public_html/nano/search.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/search.php on line 9

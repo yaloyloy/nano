@@ -1,0 +1,158 @@
+[02-May-2020 03:24:39 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/megateam/public_html/nano/admin/action/count-data.php on line 2
+[02-May-2020 03:24:39 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/megateam/public_html/nano/admin/action/count-data.php on line 7
+[02-May-2020 03:24:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home2/megateam/public_html/nano/admin/action/count-data.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 8
+[02-May-2020 03:26:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/megateam/public_html/nano/admin/action/count-data.php on line 2
+[02-May-2020 03:26:18 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/megateam/public_html/nano/admin/action/count-data.php on line 7
+[02-May-2020 03:26:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home2/megateam/public_html/nano/admin/action/count-data.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 8
+[02-May-2020 03:26:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/megateam/public_html/nano/admin/action/count-data.php on line 2
+[02-May-2020 03:26:36 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/megateam/public_html/nano/admin/action/count-data.php on line 7
+[02-May-2020 03:26:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home2/megateam/public_html/nano/admin/action/count-data.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 8
+[18-May-2020 07:02:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[18-May-2020 07:02:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[18-May-2020 07:02:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[18-May-2020 07:02:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[18-May-2020 07:02:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[19-May-2020 08:39:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[22-May-2020 04:29:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[22-May-2020 04:29:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[22-May-2020 04:30:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[22-May-2020 09:48:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[22-May-2020 09:48:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[22-May-2020 09:49:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[22-May-2020 09:49:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[23-May-2020 01:50:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[25-May-2020 07:57:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[25-May-2020 07:57:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[25-May-2020 08:00:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[25-May-2020 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[25-May-2020 08:01:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[25-May-2020 08:01:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[25-May-2020 08:20:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[25-May-2020 08:20:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[25-May-2020 08:22:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[25-May-2020 08:24:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[25-May-2020 08:28:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[25-May-2020 08:29:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[25-May-2020 08:29:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[25-May-2020 08:29:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[25-May-2020 08:30:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[25-May-2020 08:43:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[25-May-2020 08:52:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[25-May-2020 08:56:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[25-May-2020 09:02:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[25-May-2020 09:04:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
+[25-May-2020 09:07:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/megateam/public_html/nano/admin/action/count-data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/megateam/public_html/nano/admin/action/count-data.php on line 10
